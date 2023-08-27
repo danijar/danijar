@@ -27,4 +27,4 @@
 | [ninjax](https://github.com/danijar/ninjax) | ![](https://img.shields.io/github/stars/danijar/ninjax?label=%E2%98%85) | 2022 | General Modules for JAX |
 | [handout](https://github.com/danijar/handout)* | ![](https://img.shields.io/github/stars/danijar/handout?label=%E2%98%85) | 2020 | Turn Python scripts into handouts with Markdown and figures |
 
-* Unmaintained
+&nbsp;* Unmaintained
