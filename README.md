@@ -16,7 +16,7 @@
 
 |     |     |     |     |
 | :-: | :-: | :-: | :-- |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[crafter](https://github.com/danijar/crafter)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;![](https://img.shields.io/github/stars/danijar/crafter?label=%E2%98%85)&nbsp; | 2021 | Benchmarking the Spectrum of Agent Capabilities |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[crafter](https://github.com/danijar/crafter)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;![](https://img.shields.io/github/stars/danijar/crafter?label=%E2%98%85) | 2021 | Benchmarking the Spectrum of Agent Capabilities |
 
 ### 🛠️&nbsp; Tools
 
