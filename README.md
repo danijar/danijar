@@ -16,15 +16,16 @@
 
 |     |     |     |
 | :-: | :-: | :-- |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[crafter](https://github.com/danijar/crafter)&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;![](https://img.shields.io/github/stars/danijar/crafter?label=%E2%98%85) | Benchmarking the Spectrum of Agent Capabilities |
+| [crafter](https://github.com/danijar/crafter) | ![](https://img.shields.io/github/stars/danijar/crafter?label=%E2%98%85) | Benchmarking the Spectrum of Agent Capabilities |
 
 ### 🛠️&nbsp; Tools
 
 |     |     |     |
 | :-: | :-: | :-- |
 | [zerofun](https://github.com/danijar/zerofun) | ![](https://img.shields.io/github/stars/danijar/zerofun?label=%E2%98%85) | Remote function calls for array data using ZMQ |
-| [elements](https://github.com/danijar/elements) | &nbsp;&nbsp;![](https://img.shields.io/github/stars/danijar/elements?label=%E2%98%85)&nbsp;&nbsp; | Building blocks for productive research |
+| [elements](https://github.com/danijar/elements) | ![](https://img.shields.io/github/stars/danijar/elements?label=%E2%98%85) | Building blocks for productive research |
 | [ninjax](https://github.com/danijar/ninjax) | ![](https://img.shields.io/github/stars/danijar/ninjax?label=%E2%98%85) | General Modules for JAX |
-| &nbsp;&nbsp;[handout](https://github.com/danijar/handout)&nbsp;&nbsp; | ![](https://img.shields.io/github/stars/danijar/handout?label=%E2%98%85) | Turn Python scripts into handouts with Markdown and figures |
+| [handout](https://github.com/danijar/handout) | ![](https://img.shields.io/github/stars/danijar/handout?label=%E2%98%85) | Turn Python scripts into handouts with Markdown and figures |
 
 &nbsp;* Archived
+
