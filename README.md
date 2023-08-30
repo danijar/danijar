@@ -25,6 +25,6 @@
 | [zerofun](https://github.com/danijar/zerofun) | ![](https://img.shields.io/github/stars/danijar/zerofun?label=%E2%98%85) | 2023 | Remote function calls for array data using ZMQ |
 | [elements](https://github.com/danijar/elements) | &nbsp;&nbsp;![](https://img.shields.io/github/stars/danijar/elements?label=%E2%98%85)&nbsp;&nbsp; | 2023 | Building blocks for productive research |
 | [ninjax](https://github.com/danijar/ninjax) | ![](https://img.shields.io/github/stars/danijar/ninjax?label=%E2%98%85) | 2022 | General Modules for JAX |
-| &nbsp;&nbsp;[handout](https://github.com/danijar/handout)*&nbsp;&nbsp; | ![](https://img.shields.io/github/stars/danijar/handout?label=%E2%98%85) | 2020 | Turn Python scripts into handouts with Markdown and figures |
+| &nbsp;&nbsp;[handout](https://github.com/danijar/handout)&nbsp;&nbsp; | ![](https://img.shields.io/github/stars/danijar/handout?label=%E2%98%85) | 2020 | Turn Python scripts into handouts with Markdown and figures |
 
-&nbsp;* Unmaintained
+&nbsp;* Archived
