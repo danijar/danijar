@@ -17,6 +17,7 @@
 |     |     |     |
 | :-: | :-: | :-- |
 | [crafter](https://github.com/danijar/crafter) | ![](https://img.shields.io/github/stars/danijar/crafter?label=%E2%98%85) | Benchmarking the Spectrum of Agent Capabilities |
+| [diamond_env](https://github.com/danijar/diamond_env) | ![](https://img.shields.io/github/stars/danijar/diamond_env?label=%E2%98%85) | Standardized Minecraft diamond environment for reinforcement learning |
 
 ### 🛠️&nbsp; Tools
 
