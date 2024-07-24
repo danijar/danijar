@@ -12,13 +12,6 @@
 | [planet](https://github.com/google-research/planet)* | ![](https://img.shields.io/github/stars/google-research/planet?label=%E2%98%85) | Learning Latent Dynamics for Planning from Pixels |
 | [batch-ppo](https://github.com/google-research/batch-ppo)* | ![](https://img.shields.io/github/stars/google-research/batch-ppo?label=%E2%98%85) | Efficient Batched Reinforcement Learning in TensorFlow |
 
-### 📈&nbsp; Benchmarks
-
-|     |     |     |
-| :-: | :-: | :-- |
-| [crafter](https://github.com/danijar/crafter) | ![](https://img.shields.io/github/stars/danijar/crafter?label=%E2%98%85) | Benchmarking the Spectrum of Agent Capabilities |
-| [diamond_env](https://github.com/danijar/diamond_env) | ![](https://img.shields.io/github/stars/danijar/diamond_env?label=%E2%98%85) | Standardized Minecraft Diamond task for reinforcement learning |
-
 ### 🛠️&nbsp; Tools
 
 |     |     |     |
@@ -29,5 +22,11 @@
 | [teleport](https://github.com/danijar/teleport) | ![](https://img.shields.io/github/stars/danijar/teleport?label=%E2%98%85) | Efficiently send large arrays across machines |
 | [handout](https://github.com/danijar/handout) | ![](https://img.shields.io/github/stars/danijar/handout?label=%E2%98%85) | Turn Python scripts into handouts with Markdown and figures |
 
-&nbsp;* Archived
+### 📈&nbsp; Benchmarks
 
+|     |     |     |
+| :-: | :-: | :-- |
+| [crafter](https://github.com/danijar/crafter) | ![](https://img.shields.io/github/stars/danijar/crafter?label=%E2%98%85) | Benchmarking the Spectrum of Agent Capabilities |
+| [diamond_env](https://github.com/danijar/diamond_env) | ![](https://img.shields.io/github/stars/danijar/diamond_env?label=%E2%98%85) | Standardized Minecraft Diamond task for reinforcement learning |
+
+&nbsp;* Archived
