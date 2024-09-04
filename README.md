@@ -5,8 +5,8 @@
 |     |     |     |
 | :-: | :-: | :-- |
 | [dreamerv3](https://github.com/danijar/dreamerv3) | ![](https://img.shields.io/github/stars/danijar/dreamerv3?label=%E2%98%85) | Mastering Diverse Domains through World Models |
-| [daydreamer](https://github.com/danijar/daydreamer) | ![](https://img.shields.io/github/stars/danijar/daydreamer?label=%E2%98%85) | DayDreamer: World Models for Physical Robot Learning |
-| [director](https://github.com/danijar/director) | ![](https://img.shields.io/github/stars/danijar/director?label=%E2%98%85) | Deep Hierarchical Planning from Pixels |
+| [daydreamer](https://github.com/danijar/daydreamer)* | ![](https://img.shields.io/github/stars/danijar/daydreamer?label=%E2%98%85) | DayDreamer: World Models for Physical Robot Learning |
+| [director](https://github.com/danijar/director)* | ![](https://img.shields.io/github/stars/danijar/director?label=%E2%98%85) | Deep Hierarchical Planning from Pixels |
 | [dreamerv2](https://github.com/danijar/dreamerv2)* | ![](https://img.shields.io/github/stars/danijar/dreamerv2?label=%E2%98%85) | Mastering Atari with Discrete World Models |
 | [dreamer](https://github.com/danijar/dreamer)* | ![](https://img.shields.io/github/stars/danijar/dreamer?label=%E2%98%85) | Dream to Control: Learning Behaviors by Latent Imagination |
 | [planet](https://github.com/google-research/planet)* | ![](https://img.shields.io/github/stars/google-research/planet?label=%E2%98%85) | Learning Latent Dynamics for Planning from Pixels |
@@ -20,7 +20,7 @@
 | [granular](https://github.com/danijar/granular) | ![](https://img.shields.io/github/stars/danijar/granular?label=%E2%98%85) | Fast format and loader for datasets |
 | [ninjax](https://github.com/danijar/ninjax) | ![](https://img.shields.io/github/stars/danijar/ninjax?label=%E2%98%85) | General Modules for JAX |
 | [portal](https://github.com/danijar/portal) | ![](https://img.shields.io/github/stars/danijar/portal?label=%E2%98%85) | Fast and reliable distributed systems in Python |
-| [handout](https://github.com/danijar/handout) | ![](https://img.shields.io/github/stars/danijar/handout?label=%E2%98%85) | Turn Python scripts into handouts with Markdown and figures |
+| [handout](https://github.com/danijar/handout)* | ![](https://img.shields.io/github/stars/danijar/handout?label=%E2%98%85) | Turn Python scripts into handouts with Markdown and figures |
 
 ### 📈&nbsp; Benchmarks
 
