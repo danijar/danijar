@@ -16,10 +16,11 @@
 
 |     |     |     |
 | :-: | :-: | :-- |
-| [elements](https://github.com/danijar/elements) | ![](https://img.shields.io/github/stars/danijar/elements?label=%E2%98%85) | Building blocks for productive research |
 | [granular](https://github.com/danijar/granular) | ![](https://img.shields.io/github/stars/danijar/granular?label=%E2%98%85) | Fast format and loader for datasets |
-| [ninjax](https://github.com/danijar/ninjax) | ![](https://img.shields.io/github/stars/danijar/ninjax?label=%E2%98%85) | General Modules for JAX |
 | [portal](https://github.com/danijar/portal) | ![](https://img.shields.io/github/stars/danijar/portal?label=%E2%98%85) | Fast and reliable distributed systems in Python |
+| [elements](https://github.com/danijar/elements) | ![](https://img.shields.io/github/stars/danijar/elements?label=%E2%98%85) | Building blocks for productive research |
+| [ninjax](https://github.com/danijar/ninjax) | ![](https://img.shields.io/github/stars/danijar/ninjax?label=%E2%98%85) | General Modules for JAX |
+| [flexbuild](https://github.com/danijar/flexbuild) | ![](https://img.shields.io/github/stars/danijar/flexbuild?label=%E2%98%85) | Simple Python build backend for large codebases |
 | [handout](https://github.com/danijar/handout)* | ![](https://img.shields.io/github/stars/danijar/handout?label=%E2%98%85) | Turn Python scripts into handouts with Markdown and figures |
 
 ### 📈&nbsp; Benchmarks
